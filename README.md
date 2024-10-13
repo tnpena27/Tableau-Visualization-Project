@@ -1,15 +1,15 @@
 # Tableau-Visualization-Project
 
 ### Tableau Links
-Insight 1:
-Insight 2:
-Insight 3: 
+Insight 1: https://public.tableau.com/app/profile/tomeka.pena/viz/WeatherDelayContributionstoArrivalDelay/WeatherDelayContributionstoArrivalDelay <br>
+Insight 2: https://public.tableau.com/app/profile/tomeka.pena/viz/CancelationsByState/CancelationsByState <br>
+Insight 3: https://public.tableau.com/app/profile/tomeka.pena/viz/AverageDepartureDelays_17247739564300/AverageDepartureDelays <br>
 
 ### Project Description
 The goal of this project is to create visualizations to reveal insights from a given data set. This project required the creations of three visualizations to answer three questions pertaining to the data set. Data visualizations were created that tell a story or highlight patterns within the data set.  
 
 ### Data Set: Flight Delays and Cancellations
-This data comes from a Kaggle dataset and it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. The following files are included in the dataset.
+This data comes from a Kaggle dataset and it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. The dataset is downloaded as a zip file, flight-delays.zip and can be viewed under raw data. The following files are included in the dataset.
 
 > **flights.csv** - File that contains departure, arrival, delay and cancellation flight information. The following fields are contained within this dataset:
 * YEAR: year the flight occured
